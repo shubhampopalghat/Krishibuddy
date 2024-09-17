@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Krishibuddy/static/css/main.2c809030.css",
+    "main.js": "/Krishibuddy/static/js/main.9520bb83.js",
+    "static/js/453.472744bc.chunk.js": "/Krishibuddy/static/js/453.472744bc.chunk.js",
+    "static/media/bg.png.jpg": "/Krishibuddy/static/media/bg.png.b7ffca653f439d2dac80.jpg",
+    "static/media/krishibuddy-logo.png": "/Krishibuddy/static/media/krishibuddy-logo.58b0cb98e65e936fa845.png",
+    "index.html": "/Krishibuddy/index.html",
+    "main.2c809030.css.map": "/Krishibuddy/static/css/main.2c809030.css.map",
+    "main.9520bb83.js.map": "/Krishibuddy/static/js/main.9520bb83.js.map",
+    "453.472744bc.chunk.js.map": "/Krishibuddy/static/js/453.472744bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c809030.css",
+    "static/js/main.9520bb83.js"
+  ]
+}
