@@ -1,0 +1,15 @@
+
+::-webkit-scrollbar {
+  width: 0px;  /* Width of the scrollbar */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter' ,Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}
